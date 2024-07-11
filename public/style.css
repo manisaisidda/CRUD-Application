@@ -1,0 +1,27 @@
+body{
+    background-color: #e0ffcd;
+    margin-left:100px;
+}
+.chat
+{
+    background-color:#fdffcd;
+    padding:20px;
+    border-radius:16px;
+    display:inline-block;
+}
+.msg
+{
+    background-color:#ffebbb;
+    padding:5px 15px;
+    border-radius: 16px;
+}
+button{
+    background-color: #ffcab0;
+}
+form{
+    display: inline-block;
+}
+.newchat
+{
+    position:sticky;
+}
